@@ -1,0 +1,15 @@
+[0.013s][info][gc] Using G1
+[0.013s][debug][gc] ConcGCThreads: 5 offset 42
+[0.013s][debug][gc] ParallelGCThreads: 18
+[0.013s][debug][gc] Initialize mark stack with 4096 chunks, maximum 536870912
+[0.554s][info ][gc] GC(0) Pause Young (Normal) (G1 Evacuation Pause) 212M->210M(2048M) 102.997ms
+[0.766s][info ][gc] GC(1) Pause Young (Normal) (G1 Evacuation Pause) 299M->297M(2048M) 52.073ms
+[0.958s][info ][gc] GC(2) Pause Young (Normal) (G1 Evacuation Pause) 386M->359M(2048M) 40.909ms
+[1.139s][info ][gc] GC(3) Pause Young (Normal) (G1 Evacuation Pause) 448M->410M(2048M) 35.300ms
+[1.317s][info ][gc] GC(4) Pause Young (Normal) (G1 Evacuation Pause) 499M->449M(2048M) 29.675ms
+[1.487s][info ][gc] GC(5) Pause Young (Normal) (G1 Evacuation Pause) 538M->474M(2048M) 24.627ms
+[1.638s][info ][gc] GC(6) Pause Young (Normal) (G1 Evacuation Pause) 563M->488M(2048M) 17.943ms
+[1.798s][info ][gc] GC(7) Pause Young (Normal) (G1 Evacuation Pause) 585M->496M(2048M) 18.367ms
+[2.407s][info ][gc] GC(8) Pause Young (Normal) (G1 Evacuation Pause) 765M->572M(2048M) 50.427ms
+[2.618s][info ][gc] GC(9) Pause Young (Normal) (G1 Evacuation Pause) 676M->630M(2048M) 54.295ms
+[2.924s][info ][gc] GC(10) Pause Young (Normal) (G1 Evacuation Pause) 809M->683M(2048M) 37.029ms

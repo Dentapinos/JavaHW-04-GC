@@ -1,0 +1,29 @@
+[0.013s][info][gc] Using G1
+[0.013s][debug][gc] ConcGCThreads: 5 offset 42
+[0.013s][debug][gc] ParallelGCThreads: 18
+[0.013s][debug][gc] Initialize mark stack with 4096 chunks, maximum 536870912
+[0.320s][info ][gc] GC(0) Pause Young (Normal) (G1 Evacuation Pause) 72M->67M(768M) 43.007ms
+[0.445s][info ][gc] GC(1) Pause Young (Normal) (G1 Evacuation Pause) 140M->145M(768M) 42.776ms
+[0.545s][info ][gc] GC(2) Pause Young (Normal) (G1 Evacuation Pause) 214M->217M(768M) 31.115ms
+[0.636s][info ][gc] GC(3) Pause Young (Normal) (G1 Evacuation Pause) 250M->250M(768M) 17.893ms
+[0.715s][info ][gc] GC(4) Pause Young (Normal) (G1 Evacuation Pause) 283M->286M(768M) 19.473ms
+[0.807s][info ][gc] GC(5) Pause Young (Normal) (G1 Evacuation Pause) 327M->284M(768M) 3.699ms
+[0.980s][info ][gc] GC(6) Pause Young (Normal) (G1 Evacuation Pause) 352M->354M(768M) 39.125ms
+[1.109s][info ][gc] GC(7) Pause Young (Concurrent Start) (G1 Evacuation Pause) 418M->381M(768M) 23.318ms
+[1.109s][info ][gc] GC(8) Concurrent Mark Cycle
+[1.133s][debug][gc] GC(8) Reclaimed 288 empty regions
+[1.133s][info ][gc] GC(8) Pause Remark 388M->100M(768M) 1.070ms
+[1.142s][info ][gc] GC(8) Pause Cleanup 106M->106M(768M) 0.035ms
+[1.144s][info ][gc] GC(8) Concurrent Mark Cycle 34.283ms
+[1.296s][info ][gc] GC(9) Pause Young (Prepare Mixed) (G1 Evacuation Pause) 183M->107M(768M) 16.089ms
+[1.621s][info ][gc] GC(10) Pause Young (Mixed) (G1 Evacuation Pause) 244M->153M(768M) 26.194ms
+[1.861s][info ][gc] GC(11) Pause Young (Normal) (G1 Evacuation Pause) 282M->225M(768M) 45.183ms
+[2.195s][info ][gc] GC(12) Pause Young (Normal) (G1 Evacuation Pause) 411M->281M(768M) 36.256ms
+[2.553s][info ][gc] GC(13) Pause Young (Normal) (G1 Evacuation Pause) 488M->336M(768M) 47.837ms
+[2.883s][info ][gc] GC(14) Pause Young (Normal) (G1 Evacuation Pause) 532M->381M(768M) 36.421ms
+[3.188s][info ][gc] GC(15) Pause Young (Concurrent Start) (G1 Evacuation Pause) 561M->404M(768M) 31.995ms
+[3.188s][info ][gc] GC(16) Concurrent Mark Cycle
+[3.212s][debug][gc] GC(16) Reclaimed 294 empty regions
+[3.212s][info ][gc] GC(16) Pause Remark 419M->125M(768M) 1.150ms
+[3.224s][info ][gc] GC(16) Pause Cleanup 132M->132M(768M) 0.039ms
+[3.225s][info ][gc] GC(16) Concurrent Mark Cycle 37.134ms

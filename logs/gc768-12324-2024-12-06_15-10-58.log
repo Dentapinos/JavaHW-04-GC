@@ -1,0 +1,23 @@
+[0.013s][info][gc] Using G1
+[0.013s][debug][gc] ConcGCThreads: 5 offset 42
+[0.013s][debug][gc] ParallelGCThreads: 18
+[0.014s][debug][gc] Initialize mark stack with 4096 chunks, maximum 536870912
+[0.347s][info ][gc] GC(0) Pause Young (Normal) (G1 Evacuation Pause) 72M->67M(768M) 41.392ms
+[0.457s][info ][gc] GC(1) Pause Young (Normal) (G1 Evacuation Pause) 140M->144M(768M) 37.026ms
+[0.554s][info ][gc] GC(2) Pause Young (Normal) (G1 Evacuation Pause) 213M->215M(768M) 27.685ms
+[0.639s][info ][gc] GC(3) Pause Young (Normal) (G1 Evacuation Pause) 248M->248M(768M) 20.166ms
+[0.717s][info ][gc] GC(4) Pause Young (Normal) (G1 Evacuation Pause) 281M->284M(768M) 19.428ms
+[0.794s][info ][gc] GC(5) Pause Young (Normal) (G1 Evacuation Pause) 324M->281M(768M) 2.367ms
+[0.944s][info ][gc] GC(6) Pause Young (Normal) (G1 Evacuation Pause) 349M->351M(768M) 31.050ms
+[1.087s][info ][gc] GC(7) Pause Young (Normal) (G1 Evacuation Pause) 415M->379M(768M) 20.199ms
+[1.291s][info ][gc] GC(8) Pause Young (Concurrent Start) (G1 Evacuation Pause) 473M->397M(768M) 18.202ms
+[1.292s][info ][gc] GC(9) Concurrent Mark Cycle
+[1.310s][debug][gc] GC(9) Reclaimed 312 empty regions
+[1.310s][info ][gc] GC(9) Pause Remark 408M->96M(768M) 0.994ms
+[1.318s][info ][gc] GC(9) Pause Cleanup 100M->100M(768M) 0.034ms
+[1.320s][info ][gc] GC(9) Concurrent Mark Cycle 28.061ms
+[1.558s][info ][gc] GC(10) Pause Young (Prepare Mixed) (G1 Evacuation Pause) 221M->135M(768M) 36.251ms
+[1.840s][info ][gc] GC(11) Pause Young (Mixed) (G1 Evacuation Pause) 302M->143M(768M) 22.094ms
+[2.183s][info ][gc] GC(12) Pause Young (Normal) (G1 Evacuation Pause) 342M->144M(768M) 18.197ms
+[2.685s][info ][gc] GC(13) Pause Young (Normal) (G1 Evacuation Pause) 417M->215M(768M) 49.355ms
+[3.204s][info ][gc] GC(14) Pause Young (Normal) (G1 Evacuation Pause) 483M->241M(768M) 32.686ms
